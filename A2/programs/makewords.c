@@ -12,19 +12,13 @@ char* makewords(const char* input) {
         exit(1);
     }
 
-    result[0] = 'C';
-    result[1] = 'h';
-    result[2] = 'a';
-    result[3] = 'n';
-    result[4] = 'g';
-    result[5] = 'e';
-    result[6] = '\n';
-    result[7] = 'M';
-    result[8] = 'e';
-    result[9] = '\n';
+    /* This should be completely replaced in your assignment */
+    /* This will make it so linebreaker just returns the input untouched */
+    strcpy(result, input);
+    /********************************************************/
 
-    // null-terminate the final spot in the result
-    result[10] = '\0';
+    // null-terminate the final spot in the result, leave as is
+    result[maxLen] = '\0';
 
     return result;
 }
