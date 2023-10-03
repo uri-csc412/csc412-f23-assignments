@@ -1,3 +1,3 @@
-# assignment 1
+# assignment 3
 
-See handout.pdf
+See handout PDF
