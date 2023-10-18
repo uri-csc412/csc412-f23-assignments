@@ -15,8 +15,9 @@ travelers:
 run:
 	./$(PROGRAMS)
 
-logs:
+logs: clean
 	$(CXX) $(CXXFLAGS) logs.cpp -o logs
+	./logs
 
 clean:
 	rm -f $(PROGRAMS) *.o
