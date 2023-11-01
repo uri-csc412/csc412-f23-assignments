@@ -47,7 +47,7 @@ We’re almost done! Let’s tie it all together and present the game over scree
 
 > ☑️ Testing Point G: You should pass all the tests at this point! You should be able to prompt a user for their name, and then store their name and name’s length (according to unicode characters), and see the final game over screen rendered when a game ends.
 
-##### Include charsets.md in your Gradescope submission
+#### Include charsets.md in your Gradescope submission
 
 > Please describe your implementation and how to test it in a new file charsets.md. The amount of TA help you can get here may be limited. 
 
@@ -71,7 +71,7 @@ For example, the traditional Chinese glyph for “grass” uses four strokes for
 
 For this question, you will need to work with a classmate! Make sure to coordinate so that you outline opposing positions for Part A (e.g. if you outline the ‘for’ position, your partner defends the ‘against’ position). Then, come together and discuss Part B!
 
-##### Include unicode.md in your Gradescope submission
+#### Include unicode.md in your Gradescope submission
 
 > The amount of TA help you can get here may be limited. 
 * Partner’s URI email address login
@@ -90,7 +90,7 @@ If you’re feeling adventurous, try to extend your game with some additional fu
 
 > Make sure to gate your extra credit with a command line flag, special optional characters in board strings, or a #define so that existing tests don’t break. We will not be modifying the existing tests or autograder to work with any changes you make
 
-##### Include snake.md in your Gradescope submission
+#### Include snake.md in your Gradescope submission
 
 > Please describe your implementation and how to test in a new file snake.md. The amount of TA help you can get here may be limited. 
 
