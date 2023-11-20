@@ -109,7 +109,8 @@ Go beyond the simple bot — make it do :sparkles: better :sparkles: (3 points).
 #### Powerups!
 
 MULTISNAKE (2 points for design, 4 for implementation).
-Multi-speed snake? Support areas of the board (or items the snake can collect) that make it slower or faster. [Hint: recall that we use bit flags to represent cell state, so a cell could be in “slippery” state and change the snake speed when the snake is on it!].
+Multi-speed snake? Support areas of the board (or items the snake can collect) that make it slower or faster. 
+[Hint: recall that we use bit flags to represent cell state, so a cell could be in "slippery" state and change the snake speed when the snake is on it!].
 
 Set your creativity free with the following freestyle ideas! Figure out what thesy could mean and add support to the game. There is no right or wrong design here, just FUN 🥳!
  
